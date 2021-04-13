@@ -2,7 +2,6 @@
 layout: post
 title:  "The cost of unpredictable water"
 date:   2021-01-25 12:22:59 +0530
-categories: testing
 ---
 Industry depends on an anticipated supply of clean water, but water availability and water quality are both becoming increasingly unpredictable.
 
