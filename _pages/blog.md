@@ -7,7 +7,7 @@ permalink: /blog/
 {% for post in site.posts %}
   <article>
     <h4>
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
     </h4>

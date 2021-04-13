@@ -58,7 +58,7 @@
                       {% for post in site.posts limit:3%}
                         <article>
                           <h5>
-                            <a href="{{ post.url }}">
+                            <a href="{{ post.url | absolute_url }}">
                               {{ post.title }}
                             </a>
                           </h5>
