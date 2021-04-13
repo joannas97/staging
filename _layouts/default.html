@@ -25,16 +25,16 @@
                             <a class="nav-link" href="#">Shop</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="{{ baseurl }}/data">Data</a>
+                            <a class="nav-link" href="{{ site.baseurl }}data">Data</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="{{ baseurl }}/blog">Blog</a>
+                            <a class="nav-link" href="{{ site.baseurl }}blog">Blog</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="{{ baseurl }}/resources">Resources</a>
+                            <a class="nav-link" href="{{ site.baseurl }}resources">Resources</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="{{ baseurl }}/about">About</a>
+                            <a class="nav-link" href="{{ site.baseurl }}about">About</a>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link" href="#">My Account</a>
@@ -48,12 +48,6 @@
                 <div class="col-md-8">
                     <article>
                         <h1>{{ page.title }}</h1>
-                        <ul>
-                          <li>Base url: {{ site.baseurl }}</li>
-                          <li>relative url: {{ relative_url }}</li>
-                          <li>absolute url: {{ absolute_url }}</li>
-                          <li>Site url: {{ site.url }}</li>
-                        </ul>
                         {{ content }}
                     </article>
                 </div>
@@ -80,13 +74,13 @@
                 <footer>
                     <div class="row">
                         <div class="col-md-4">
-                            <p><a href="{{ baseurl }}/faqs">FAQs</a></p>
-                            <p><a href="{{ baseurl }}/contact">Contact</a></p>
+                            <p><a href="{{ site.baseurl }}faqs">FAQs</a></p>
+                            <p><a href="{{ site.baseurl }}contact">Contact</a></p>
                         </div>
                         <div class="col-md-4">
-                            <p><a href="{{ baseurl }}/shipping_and_returns">Shipping and Returns</a></p>
-                            <p><a href="{{ baseurl }}/privacy_policy">Privacy Policy</a></p>
-                            <p><a href="{{ baseurl }}/terms_of_service">Terms of Service</a></p>
+                            <p><a href="{{ site.baseurl }}shipping_and_returns">Shipping and Returns</a></p>
+                            <p><a href="{{ site.baseurl }}privacy_policy">Privacy Policy</a></p>
+                            <p><a href="{{ site.baseurl }}terms_of_service">Terms of Service</a></p>
                         </div>
                         <div class="col-md-4">
                             <p><a href="http://facebook.com" class="btn btn-primary">
