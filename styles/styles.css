@@ -27,3 +27,13 @@ a:active {
     padding: 2em 0;
     border-top: 1px solid #000;
 }
+
+div.article {
+    margin-top: 2em;
+    padding-top: 2em;
+}
+
+div.main-article {
+    padding-right: 1em;
+    border-right: 1px solid #ddd;
+}
