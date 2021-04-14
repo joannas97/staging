@@ -9,21 +9,21 @@ HD Pro is ...
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water</h4>
-<img src="https://loremflickr.com/320/240" />
+<img src="https://loremflickr.com/320/240" width="100%"/>
 <p>Description here</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
-<img src="https://loremflickr.com/320/240" />
+<img src="https://loremflickr.com/320/240"  width="100%"/>
 <p>Description here</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
-<img src="https://loremflickr.com/320/240" />
+<img src="https://loremflickr.com/320/240"  width="100%"/>
 <p>Description here</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -34,7 +34,7 @@ HD Pro is ...
 HD Elementary is ...
 <div>
 <h4>Single Parameter tests</h4>
-<img src="https://loremflickr.com/320/240" />
+<img src="https://loremflickr.com/320/240"  width="100%"/>
 <p>Description here</p>
 <table>
 <tr>
