@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy_policy/
 ---
 
-This Privacy Notice explains why Hueristic Devices (**“we”** or **“us”** or **“our”**) collects information about you, how that information may be used, processed, protected and otherwise handled when you use or visit our website or our mobile application (**“Platforms”**) and its services. 
+<a name="top">This</a> Privacy Notice explains why Hueristic Devices (**“we”** or **“us”** or **“our”**) collects information about you, how that information may be used, processed, protected and otherwise handled when you use or visit our website or our mobile application (**“Platforms”**) and its services. 
 You acknowledge that this Privacy Notice is a part of the [Terms of Use]({{ site.baseurl }}terms_of_use) and all terms defined in the Terms of Use have the same meaning in this Privacy Notice statement and vice-versa. 
 
 **BEFORE YOUR SUBMIT ANY INFORMATION TO HUERISTIC DEVICES, PLEASE READ THIS PRIVACY NOTICE WHICH IS AN INTEGRAL PART OF THE TERMS OF USE. THIS PRIVACY NOTICE PROVIDES YOU WITH INFORMATION ON HOW HUERISTIC DEVICES WILL PROCESS YOUR PERSONAL INFOMRATION, AND PLEASE PROVIDE YOUR INFORMED CONSENT AS THE SAME IS ESSENTIAL FOR USING THE PLATFORM.**  
@@ -21,24 +21,24 @@ You acknowledge that this Privacy Notice is a part of the [Terms of Use]({{ site
 
 ### What does this Privacy Notice provide?
 
-* What PD we collect?
-* How do we collect PD?
-* How do we process PD?
-* Why do we process PD?
-* How do we protect PD?
-* How long do we store PD?
-* Do we transfer your PD to third parties?
-* What are your rights?
-* Children’s Privacy
-* Our cookie policy
-* Google Analytics
-* Google Play Store
-* Our anti-spam policy
-* Changes
-* Link to other websites
-* Contact details [PSA: Please hyperlink these for a staggered privacy notice. Staggered notices help users navigate efficiently.]
+* [What PD we collect?](#1)
+* [How do we collect PD?](#2)
+* [How do we process PD?](#3)
+* [Why do we process PD?](#4)
+* [How do we protect PD?](#5)
+* [How long do we store PD?](#6)
+* [Do we transfer your PD to third parties?](#7)
+* [What are your rights?](#8)
+* [Children’s Privacy](#9)
+* [Our cookie policy](#10)
+* [Google Analytics](#11)
+* [Google Play Store](#12)
+* [Our anti-spam policy](#13)
+* [Changes](#14)
+* [Link to other websites](#15)
+* [Contact details](#16) 
 
-### What PD we collect?
+### <a name="1">What PD we collect?</a>
 
 Platforms are designed to provide you with an overview about Hueristic Devices and its products specifically, details of the water and soil quality testing kits, enables you to place orders and purchase our products, download and use the software for testing, upload findings, review and access testing results, other related services, and enables you to contact us for provision of those services (**“Services”**).  For providing these Services, tracking purchase history and reorder requests, and to provide customer support, subscribing to news and information feeds the Platforms processes your PD. PD collected includes the following categories: 
 
@@ -60,14 +60,18 @@ While we shall make reasonable endeavors to ensure that your PD is duly protecte
 
 Whenever you use our Service, in a case of an error in the Platforms we collect data and information on your mobile device called Log Data. This Log Data may include information such as IP address, device name, operating system version, the time and date of your use of the Service, and other statistics. 
 
-### How do we collect PD?
+[Top](#top)
+
+### <a name="2">How do we collect PD?</a>
 
 We collect PD:
  
 * directly from you when you voluntarily provide your PD at the time of registering to use our Platforms, subscribing to our Services via the Platforms, or requesting further services; and
 * indirectly from other sources such as cookies (our cookie policy) [PSA: Please hyperlink the cookie policy section which is provided below], web beacons, website traffic, information available in public domain through internet searches, analytic studies and other information that we may derive while processing PD.
 
-### How do we process PD?
+[Top](#top)
+
+### <a name="3">How do we process PD?</a>
 
 We collect, record, organize, structure, align, retrieve, adapt, access, review, archive, analyze, pseudonymize, encrypt, decrypt, profile, transfer, perform other related technological and manual processing activities and when no longer required, we anonymize or erase your PD. 
 
@@ -84,7 +88,9 @@ We process your PD in accordance with fair, accountable and transparent processi
 
 Profiling means automated processing or PD to evaluate certain personal attributes about you. This aims at analyzing your behaviour while using the Platforms. **There will be no profiling by automated means that will affect your PD protection rights and privacy.**
 
-### Why do we process PD?
+[Top](#top)
+
+### <a name="4">Why do we process PD?</a>
 
 We process your PD for entering into a lawful contract with you and thereafter, for performance of the lawful contract so executed and delivery of Services. We also process your PD because you have explicitly consented to the purposes of processing as stated in this Privacy Notice, those that can be reasonably expected in context thereof, and those that are compatible with the listed out purposes. If you do not want to consent, we will be unable to provide you with the Services.
 
@@ -109,17 +115,23 @@ Additionally, we process PD for the following purposes:
 
 **Apart from the above purposes, please note that we do not sell, rent, or trade your PD in any manner.** 
 
-### How do we protect your PD?
+[Top](#top)
+
+### <a name="5">How do we protect your PD?</a>
 
 We are committed to managing and securing PD and information asset systems with confidentiality, integrity and authenticity. Commensurating with the size and nature of the Platforms, the Services, and allied activities, we have implemented reasonable, operational, technical and managerial safeguard, practices, processes and policies to ensure safety, security, integrity and protection of all its information assets including PD.
 
 All our staff, personnel, officers, representatives and members receive appropriate and on-going training to ensure they are fully aware of their obligation to uphold confidentiality, protect PD, and respect your privacy. Only limited authorized personnel and approved third parties have access to PD on a need to know basis and only for specific purposes. If you wish to learn more about our data protection practices, please write to us at [info@hueristic.dev](mailto:info@hueristic.dev).
 
-### How long do we store PD?
+[Top](#top)
+
+### <a name="6">How long do we store PD?</a>
 
 We will store and process your PD for such duration as is necessary in order to fulfill the purposes stated in this Privacy Notice and comply with applicable law. Our overarching goal is not to retain PD in identifiable form longer than what is necessary, after which they will be anonymized or destroyed.
 
-### Do we transfer your PD to third parties?
+[Top](#top)
+
+### <a name="7">Do we transfer your PD to third parties?</a>
 
 We may transfer your PD to third-party service providers with whom we have a contractual agreement. Being committed to maintaining confidentiality of PD, we follow strict controls on who can internally or externally access and process PD. Your PD may be transferred or shared with third parties as set forth below: 
 
@@ -133,7 +145,9 @@ We may transfer your PD to third-party service providers with whom we have a con
 
 Before transferring PD to a third-party, we conduct reasonable due diligence factoring the purposes, such as evaluation of processes implemented as per information disclosed about processing measures, inspection rights wherever reasonably possible, requiring representations, and mandating compliance with applicable laws concerning data protection and privacy from the third-party. [PSA: Please ensure compliance with these while transferring data to a third party to the extent reasonably possible.]
 
-### What are your rights?
+[Top](#top)
+
+### <a name="8">What are your rights?</a>
 
 Your rights are:
 
@@ -147,11 +161,15 @@ Your rights are:
 
 You can exercise these rights by writing to us at [info@hueristic.dev](mailto:info@hueristic.dev). We will try our best to provide the necessary information within 30 days from receipt of the request and this can be extended to 2 months with prior notice to you. If requests are excessive or unfounded or repetitive at our sole discretion, we can refuse to your request or charge a reasonable fee for costs, in which case you can choose to complaint to appropriate authority. 
 
-### Children’s Privacy
+[Top](#top)
+
+### <a name="9">Children’s Privacy</a>
 
 These Services do not address anyone under the age of 18. We do not knowingly collect PD from children under 18. In the case we discover that a child under 18 has provided us with PD, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with PD, please contact us so that we will be able to take necessary action.
 
-### Our cookie policy
+[Top](#top)
+
+### <a name="10">Our cookie policy</a>
 
 We use cookies and web beacons to collect PD through the Platforms. Cookies are small files which generally consist of letters plus numbers that get downloaded on your device when you access or use the Platform. As such, cookies by themselves will not reveal your personal information, but they do contain certain unique identifiers, which when combined with other identifiers and information may generate personal information about your identity.
 
@@ -159,25 +177,37 @@ You do not have to accept cookies and you may modify your browser settings to re
 
 If this option is selected, you should be aware that many websites may not function properly, but this is not the case with the Platform. Instead of setting up your browser to refuse/block cookies, you could set it up in a manner where your consent is required before each cookie is set on your device. This gives you more control over what is set on your device without excessively disrupting or compromising on the quality of your browsing experience. There are different levels of control that you can exercise in using your cookies. You will be able to prevent only third-party cookies from being deployed, or block specific companies from deploying a cookie on your device.
 
-### Google Analytics
+[Top](#top)
+
+### <a name="11">Google Analytics</a>
 
 We use Google Analytics. The cookies used collect and analyze certain types of information including your personal information for usage and user metrics, such as age, gender, languages used, preferences and interests, onsite behavior and usage information, device and software identifiers, search queries, mobile network and other similar information. Google Analytics’ terms of utilizing your data can be accessed in their terms of service. You may opt-out of Google Analytics utilizing your data by installing the Google Analytics opt-out browser add-on. 
 
-### Google Play Store
+[Top](#top)
+
+### <a name="12">Google Play Store</a>
 
 Hueristic Devices is distributed on the Google Play Store, a place for the distribution of mobile apps. If you download the App from the Google Play Store then it is compiled into aggregate usage statistics on our management portal. Your use of the Application as described in more detail at https://play.google.com/about/developer-distribution-agreement.html  
 
-### Our anti-Spam policy
+[Top](#top)
+
+### <a name="13">Our anti-Spam policy</a>
 
 We recognize that the receipt, transmission or distribution of spam e-mails (unsolicited bulk e-mails) as a major concern and have taken reasonable measures to minimize the transmission and effects of spam e-mails in its computing environment. Accordingly, all e-mails received by us are subject to spam check. Any e-mail identified as spam will be rejected and deleted. With this measure, along with other technical spam reduction measures, we hope to minimize the spread and effects of spam e-mails. We reserve the right to reject and/or report any suspicious spam e-mails, to the authorities concerned and/or to the sender of such e-mails, for necessary action, from time to time.
 
-### Changes
+[Top](#top)
+
+### <a name="14">Changes</a>
 
 We will periodically review and revise this Privacy Notice and policies around PD. You must periodically review the Privacy Notice to appraise the changes. We will notify you of any changes on this page. These changes are effective immediately after they are posted on this page. 
 
-### Link to other websites
+[Top](#top)
+
+### <a name="15">Link to other websites</a>
 
 The Platform links to other third party websites may or may not collect PD about You. If they do collect personal information, we are not responsible for the privacy practices or the contents of those linked websites.
 
-### Contact
+[Top](#top)
+
+### <a name="16">Contact</a>
 If You have any questions, comments, rights request, or complaints, please contact us at [info@hueristic.dev](mailto:info@hueristic.dev). 
