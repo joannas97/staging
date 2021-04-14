@@ -28,6 +28,14 @@ a:active {
     border-top: 1px solid #000;
 }
 
+#top {
+    border: 1px solid #000;
+}
+
+div#nav-container {
+    margin: 0px -0.7em;
+}
+
 div.article {
     margin-top: 2em;
     padding-top: 2em;
