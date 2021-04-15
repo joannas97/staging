@@ -45,3 +45,8 @@ div.main-article {
     padding-right: 1em;
     border-right: 1px solid #ddd;
 }
+
+div#announcements h4 {
+    color: #fff;
+    background-color: #444;
+}
