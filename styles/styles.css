@@ -50,3 +50,26 @@ div#announcements h4 {
     color: #fff;
     background-color: #444;
 }
+
+nav.navbar {
+    border-bottom: 2px solid #000;
+}
+
+nav.bg-light {
+    background-color: #fff!important;;
+}
+
+nav.navbar ul li {
+    border-right: 1px solid #000;
+    margin: 0;
+    padding: 0;
+}
+
+nav.navbar ul li.last-nav {
+    border-right: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
