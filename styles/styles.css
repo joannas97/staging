@@ -73,3 +73,7 @@ nav.navbar ul li.last-nav {
     padding-right: 1.5rem;
     padding-left: 1.5rem;
 }
+
+div#announcements h4 {
+    padding: 0.5rem;
+}
